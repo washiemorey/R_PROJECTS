@@ -1,5 +1,5 @@
 # PROJECT 1
-##School Performance Analysis
+## School Performance Analysis
 This project analyzes end-term exam results from a school in Kenya. The dataset includes student scores across multiple subjects, categorized by stream, allowing for a detailed examination of academic performance. The goal of this analysis is to gain insights into student achievements and identify patterns, trends, and areas for improvement in education.
 
 ## Dataset Overview
